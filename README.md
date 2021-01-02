@@ -1,11 +1,10 @@
-# Portfolio of personal works (on repl.it)
-My repl.it portfolio where you can see some small yet consistent works of mine.
+# Portfolio of personal works (on Repl.it)
+My repl.it portfolio where you can see some small yet consistent works of mine. You can find my repl.it profile [here](https://repl.it/@RiccardoPesce/). 
 
-### Why
-Flooding GitHub with personal works might be a cumbersome way to show them, since I would occupy space in the first place and, in the second place, I would just waste your time by showing them on a per-page basis, which might be difficult for you to efficiently surf them.
+### List of repl.it works
 
-### REPL.IT profile
-You can find my repl.it profile [here](https://repl.it/@RiccardoPesce/). Over there you will also find solutions to some Project Euler problems (planning to add them soon) as well as all those small sized programs which fit better that particular environment and where you can run them to see exactly how they behave.
+#### FreeCodeCamp
+#### Problem Solving with Algorithms and Data Structures using Python
 
 Have fun!
 
