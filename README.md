@@ -1,7 +1,10 @@
-# Portfolio of personal works (on Repl.it)
-My repl portfolio where you can see some small yet consistent works of mine. You can find my profile [here](https://repl.it/@RiccardoPesce/). 
+# FreeCodeCamp Portfolio
+My FreeCodeCamp portfolio where you can see some small yet consistent works of mine.
 
-## List of repls
+## List of works
+
+### Responsive Web Design Certification
+* [Tribute Page](https://codepen.io/riccardompesce/pen/XpNvqE)
 
 ### Scientific Computing with Python - FreeCodeCamp ([link](https://www.freecodecamp.org/learn/))
 * [Budget App](https://repl.it/@RiccardoPesce/fcc-budget-app)
